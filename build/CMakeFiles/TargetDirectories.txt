@@ -1,0 +1,3 @@
+C:/Users/91911/Downloads/bowling_game/bowling_game/build/CMakeFiles/BowlingGame.dir
+C:/Users/91911/Downloads/bowling_game/bowling_game/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/91911/Downloads/bowling_game/bowling_game/build/CMakeFiles/ZERO_CHECK.dir
